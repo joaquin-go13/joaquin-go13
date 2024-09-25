@@ -6,6 +6,6 @@ Hola, soy Joaquin y trabajo como realizador audiovisual y creador de contenido. 
 ## Contact me
 Al crecer, me gustaría seguir aprendiendo y entrenando mis habilidades como tester.
 
-##Idiomas
+## Idiomas
 - Ingles
 - Espanol
