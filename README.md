@@ -6,5 +6,12 @@ Hola, soy Joaquin y trabajo como realizador audiovisual y creador de contenido. 
 ## Contact me
 Al crecer, me gustaría seguir aprendiendo y entrenando mis habilidades como tester.
 
+## Hobbies
+- Dancing
+- Photography
+- Film
+- Gaming
+
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
