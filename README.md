@@ -11,5 +11,7 @@ Al crecer, me gustaría seguir aprendiendo y entrenando mis habilidades como tes
 - Photography
 - Film
 - Gaming
-=======
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
 
